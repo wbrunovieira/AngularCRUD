@@ -1,4 +1,4 @@
-import { Directive, OnInit, Input, ViewContainerRef, TemplateRef } from '@angular/core';
+import { Directive, OnInit, Input, ViewContainerRef, TemplateRef, } from '@angular/core';
 
 @Directive({
   selector: '[myFor]'
